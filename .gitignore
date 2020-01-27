@@ -106,5 +106,8 @@ venv.bak/
 # vs code
 .vscode/
 
+/output
+/misc
 
-
+#powerpoint
+.pptx
