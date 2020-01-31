@@ -6,6 +6,12 @@ The linear regression model captures 84% of the variance in regional average avo
 
 On average, the selected model forecasts avocado prices within 11 cents of the true value (**mean absolute error = 0.113**, unit = USD, forecasting one week ahead).
 
+### One-week ahead forecasts
+
+![predicted vs. actuals, linegraph](https://i.imgur.com/h9QbABw.png)
+![predicted vs. actuals, scatterplot](https://i.imgur.com/snxqMPO.png)
+![error distribution](https://i.imgur.com/NdHPRvy.png)
+
 ## Presentation
 See the presentation [powerpoint](https://github.com/rchesak/price-forecasting/blob/master/chesak_avocado_case_study.pptx) or [pdf](https://github.com/rchesak/price-forecasting/blob/master/chesak_avocado_case_study.pdf) for an executive overview, followed by a technical overview.
 
