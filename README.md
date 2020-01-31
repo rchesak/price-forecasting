@@ -9,9 +9,7 @@ On average, the selected model forecasts avocado prices within 11 cents of the t
 ### One-week ahead forecasts
 
 <img src="https://i.imgur.com/h9QbABw.png" width="800">
-
-<img src="https://i.imgur.com/snxqMPO.png" width="250">
-<img src="https://i.imgur.com/NdHPRvy.png" width="250">
+<img src="https://i.imgur.com/R7ETZdg.png" width="800">
 
 
 ## Presentation
