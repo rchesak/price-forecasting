@@ -10,8 +10,9 @@ On average, the selected model forecasts avocado prices within 11 cents of the t
 
 <img src="https://i.imgur.com/h9QbABw.png" width="800">
 
-<img src="https://i.imgur.com/snxqMPO.png" width="400">
-<img src="https://i.imgur.com/NdHPRvy.png" width="400>
+<img src="https://i.imgur.com/snxqMPO.png" width="250">
+<img src="https://i.imgur.com/NdHPRvy.png" width="250">
+
 
 ## Presentation
 See the presentation [powerpoint](https://github.com/rchesak/price-forecasting/blob/master/chesak_avocado_case_study.pptx) or [pdf](https://github.com/rchesak/price-forecasting/blob/master/chesak_avocado_case_study.pdf) for an executive overview, followed by a technical overview.
