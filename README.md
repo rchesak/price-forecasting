@@ -7,6 +7,7 @@ The linear regression model captures 84% of the variance in regional average avo
 On average, the selected model forecasts avocado prices within 11 cents of the true value (**mean absolute error = 0.113**, unit = USD, forecasting one week ahead).
 
 ### One-week ahead forecasts
+You can see that the model relies heavily on last week's price to predict this week's price. This is often the case in time series analysis, and especially with price data which tend to be influenced by a complex arrray of factors.
 
 <img src="https://i.imgur.com/h9QbABw.png" width="800">
 <img src="https://i.imgur.com/R7ETZdg.png" width="800">
