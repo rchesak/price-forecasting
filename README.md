@@ -1,5 +1,5 @@
 # price-forecasting
-Price forecasting data science challenge, which I hacked together in a strict 3.5 day time limit.
+Price forecasting data science challenge, which I hacked together in a strict 3.5 day time limit. 80 - 90% of this time was used for [extensive data cleansing, data engineering, and data exploration / visualization](https://github.com/rchesak/price-forecasting/blob/master/exploratory-analysis.ipynb), because as any good data professional knows, [garbage in, garbage out](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out).
 
 ## Quick Results Summary
 The linear regression model captures 84% of the variance in regional average avocado prices across the USA (**R-squared = 0.8372**). 
